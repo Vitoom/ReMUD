@@ -85,7 +85,7 @@ You can use any utils (like [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Fac
 
 You can download pretrained models here:
 
-- [My awesome model](https://drive.google.com/mymodel.pth) trained on ReMUD.
+- [ReMUD-7B](https://huggingface.co/Ssdaizi/ReMUD-7B) trained on ReMUD.
 
 
 ## Results
