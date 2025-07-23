@@ -1,6 +1,6 @@
 # ReMUD: A Reasoning Multimodal Ultrasound Dataset and Pipeline Brigding to General Specific Domains
 
-This repository is the official implementation of [ReMUD: A Reasoning Multimodal Ultrasound Dataset and Pipeline Brigding to General Specific Domains](./Paper0512.pdf). 
+This repository is the official implementation of [ReMUD: A Reasoning Multimodal Ultrasound Dataset and Pipeline Brigding to General Specific Domains](https://arxiv.org/abs/2506.07837). 
 
 ## Requirements
 
